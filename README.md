@@ -8,12 +8,12 @@ This repository is designed to aid those currently preparing for HackerRank inte
 ## What does it cover? 
 
  - Basic-level problem solving:
-    - [ ] Plus Minus
-    - [ ] Mini-Max Sum
-    - [ ] Time Conversion
-    - [ ] Lonely Integer
-    - [ ] Diagonal Difference
-    - [ ] Counting Sort
+    - [x] Plus Minus
+    - [x] Mini-Max Sum
+    - [x] Time Conversion
+    - [x] Lonely Integer
+    - [x] Diagonal Difference
+    - [x] Counting Sort
     - [ ] Zig Zag Sequence
     - [ ] Tower Breakers
     - [ ] Caesar Cipher
