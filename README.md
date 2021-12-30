@@ -14,12 +14,12 @@ This repository is designed to aid those currently preparing for HackerRank inte
     - [x] Lonely Integer
     - [x] Diagonal Difference
     - [x] Counting Sort
-    - [ ] Zig Zag Sequence
-    - [ ] Tower Breakers
-    - [ ] Caesar Cipher
-    - [ ] Grid Challenge
-    - [ ] Recursive Digit Sum
-    - [ ] New Year Chaos
+    - [x] Zig Zag Sequence
+    - [x] Tower Breakers
+    - [x] Caesar Cipher
+    - [x] Grid Challenge
+    - [x] Recursive Digit Sum
+    - [x] New Year Chaos
   
  - Intermediate-level problem solving:
     - [ ] Merging Two Sorted Linked Lists
