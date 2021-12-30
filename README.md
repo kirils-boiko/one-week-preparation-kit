@@ -22,9 +22,9 @@ This repository is designed to aid those currently preparing for HackerRank inte
     - [x] New Year Chaos
   
  - Intermediate-level problem solving:
-    - [ ] Merging Two Sorted Linked Lists
-    - [ ] Queue using Two Stacks
-    - [ ] Balanced Brackets
+    - [x] Merging Two Sorted Linked Lists
+    - [x] Queue using Two Stacks
+    - [x] Balanced Brackets
     - [ ] Simple Text Editor
     - [ ] Lego Blocks
     - [ ] Jesse and Cookies 
